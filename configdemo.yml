@@ -4,4 +4,7 @@ build:
   name: "DEV-GIT-Production-Build"
   type: "Development Build"
 
+app:
+  versions: "String is ready"
+
   
