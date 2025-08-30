@@ -5,6 +5,6 @@ build:
   type: "Development Build"
 
 app:
-  versions: "String is ready"
+  versions: "working"
 
   
